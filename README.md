@@ -7,13 +7,13 @@ This repo is about how to create a fileupload server using express,mongoose,mult
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/B-chandru/fileupload.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd 
+  cd fileupload
 ```
 
 Install dependencies
@@ -33,6 +33,11 @@ Start the server
 
 **Client:** Ejs
 
-**Server:** Node, Express
+**Server:** Node, Express, Multer. 
+
+
+
+
+
 
   
